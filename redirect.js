@@ -1,5 +1,5 @@
-browser.spacesToolbar.addButton('ProtonMail', {
-    title: "Proton Mail",
-    defaultIcons: "mail-logo-greyscale.svg",
-    url: "https://mail.proton.me"
+browser.spacesToolbar.addButton('ProtonDrive', {
+    title: "Proton Drive",
+    defaultIcons: "drive-logo-greyscale.svg",
+    url: "https://drive.proton.me"
 });

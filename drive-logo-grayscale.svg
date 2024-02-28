@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="348"
+   height="288"
+   viewBox="0 0 348 288"
+   fill="none"
+   version="1.1"
+   id="svg27"
+   sodipodi:docname="proton-drive-seeklogo.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview29"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.5344203"
+     inkscape:cx="61.586777"
+     inkscape:cy="144.02834"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg27" />
+  <path
+     d="M 0,252 V 36 C 0,16.118 16.118,0 36,0 h 67.514 c 6.813,0 13.447,2.174 18.938,6.205 l 22.596,16.59 C 150.539,26.826 157.173,29 163.986,29 H 312 c 19.882,0 36,16.118 36,36 v 187 c 0,19.882 -16.118,36 -36,36 H 36 C 16.118,288 0,271.882 0,252 Z"
+     fill="url(#paint0_linear_5497_105462)"
+     id="path4"
+     style="fill:url(#paint0_linear_5497_105462);filter:url(#filter2001)" />
+  <path
+     d="M 0,252 V 36 C 0,16.118 16.118,0 36,0 h 67.514 c 6.813,0 13.447,2.174 18.938,6.205 l 22.596,16.59 C 150.539,26.826 157.173,29 163.986,29 H 312 c 19.882,0 36,16.118 36,36 v 187 c 0,19.882 -16.118,36 -36,36 H 36 C 16.118,288 0,271.882 0,252 Z"
+     fill="url(#paint1_radial_5497_105462)"
+     id="path6"
+     style="fill:url(#paint1_radial_5497_105462);filter:url(#filter1997)" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="M 163.986,29 H 312 c 19.882,0 36,16.117 36,36 v 187 c 0,19.883 -16.118,36 -36,36 H 274 V 100.162 c 0,-15.527 -12.635,-28.089 -28.161,-28 l -136.31,0.785 C 103.659,72.982 97.926,71.17 93.141,67.768 L 62.786,46.182 C 58.047,42.811 52.375,41 46.559,41 H 0 V 36 C 0,16.117 16.118,0 36,0 h 67.514 c 6.813,0 13.447,2.174 18.938,6.205 l 22.596,16.59 C 150.539,26.826 157.173,29 163.986,29 Z"
+     fill="url(#paint2_linear_5497_105462)"
+     id="path8"
+     style="fill:url(#paint2_linear_5497_105462);filter:url(#filter1993)" />
+  <defs
+     id="defs25">
+    <linearGradient
+       id="paint0_linear_5497_105462"
+       x1="276.25"
+       y1="-13.7704"
+       x2="303.22"
+       y2="365.77499"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.988738"
+         stop-color="#6D4AFF"
+         id="stop10" />
+    </linearGradient>
+    <radialGradient
+       id="paint1_radial_5497_105462"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-220.58544,450.74872,-701.26537,-343.18219,387.589,5.75312)">
+      <stop
+         offset="0.556057"
+         stop-color="#FF62C0"
+         stop-opacity="0"
+         id="stop13" />
+      <stop
+         offset="0.994421"
+         stop-color="#FF62C0"
+         id="stop15" />
+    </radialGradient>
+    <linearGradient
+       id="paint2_linear_5497_105462"
+       x1="-15"
+       y1="84"
+       x2="420"
+       y2="562"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#6D4AFF"
+         id="stop18" />
+      <stop
+         offset="0.35934"
+         stop-color="#AE8CFF"
+         id="stop20" />
+      <stop
+         offset="1"
+         stop-color="#F8CCFF"
+         id="stop22" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter1993"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix1991" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter1997"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix1995" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter2001"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix1999" />
+    </filter>
+  </defs>
+</svg>
